@@ -1,0 +1,12 @@
+/**
+ * @name NoDecorations
+ * @description This theme removes all avatar decorations from Discord.
+ * @author qxxst
+ * @website https://github.com/qxxst/
+ */
+[class*="avatarDecoration"] {
+  display: none;
+}
+[class*="profileEffect"] {
+  display: none;
+}
