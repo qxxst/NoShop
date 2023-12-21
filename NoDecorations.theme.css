@@ -1,8 +1,8 @@
 /**
- * @name NoDecorations
- * @description This theme removes all avatar decorations from Discord.
+ * @name NoShop
+ * @description This theme removes all shop items from Discord.
  * @author qxxst
- * @website https://github.com/qxxst/
+ * @website https://github.com/qxxst/NoShop
  */
 [class*="avatarDecoration"] {
   display: none;
