@@ -3,6 +3,7 @@
  * @description This theme removes all shop items from Discord.
  * @author qxxst
  * @website https://github.com/qxxst/NoShop
+ * @version 0.1
  */
 [class*="avatarDecoration"] {
   display: none;
