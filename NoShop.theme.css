@@ -14,3 +14,6 @@
 [class*="shopForAllWinterBackground"] {
   display: none;
 }
+[data-list-item-id="private-channels-uid_241___shop"] {
+  display: none;
+}
