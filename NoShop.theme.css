@@ -3,11 +3,14 @@
  * @description This theme removes all shop items from Discord.
  * @author qxxst
  * @website https://github.com/qxxst/NoShop
- * @version 0.1
+ * @version 1.0
  */
 [class*="avatarDecoration"] {
   display: none;
 }
 [class*="profileEffect"] {
+  display: none;
+}
+[class*="shopForAllWinterBackground"] {
   display: none;
 }
