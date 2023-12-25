@@ -6,12 +6,16 @@
  * @version 1.1
  * @authorLink https://github.com/qxxst
  */
+
+/* Removes shop items */
 [class*="avatarDecoration"] {
   display: none;
 }
 [class*="profileEffect"] {
   display: none;
 }
+
+/* Removes advertisements */
 [class*="shopForAllWinterBackground"] {
   display: none;
 }
