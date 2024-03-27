@@ -1,5 +1,5 @@
 # NoShop
-A theme to remove all shop items from Discord. Also removes advertisements and links to the shop where possible.
+Theme to remove all shop items from Discord. Also removes advertisements and links to the shop where possible.
 ## Installation
 1. Install BetterDiscord or any Discord client mod that supports CSS themes.
 2. Download the latest version of the theme from the [releases](https://github.com/qxxst/Elementcord/releases) page.
